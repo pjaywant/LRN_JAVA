@@ -1502,3 +1502,503 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.jface.text 2 0 2019-02-15 01:57:30.320
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-02-16 21:33:13.592 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-16 21:33:50.590
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-02-17 13:05:42.354 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-17 13:06:22.344
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-02-17 13:49:42.621 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-02-17 13:49:55.066
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-17 13:50:22.371
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-03-17 13:58:59.987 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-17 13:59:45.911
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-05-23 03:36:18.429 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-23 03:36:59.707
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-05-23 03:36:18.427 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-23 04:49:04.331
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-09-17 20:49:41.541 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-09-17 20:50:23.196
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-09-17 20:49:42.273 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-09-17 20:53:09.430
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-09-17 20:58:41.649 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-09-17 20:59:05.029
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-09-17 21:03:53.087 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data file:/home/addmin/eclipse-workspace/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-09-17 21:05:03.697
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-09-17 21:05:32.831
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-09-17 21:05:32.833
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-09-17 21:05:32.834
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2019-09-17 21:51:52.542 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-09-17 21:52:32.765
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-09-17 21:52:57.961
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-09-17 21:52:57.963
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-09-17 21:52:57.970
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-02-13 23:04:57.274 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-02-13 23:05:36.346
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-02-13 23:05:52.739
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-02-13 23:05:52.741
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-02-13 23:05:52.742
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-05-26 21:40:14.288 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-05-26 21:41:00.439
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-26 21:41:23.300
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-26 21:41:23.303
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-26 21:41:23.308
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-05-26 21:42:37.919 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-05-26 21:43:00.845
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-26 21:43:17.481
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-26 21:43:17.483
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-26 21:43:17.484
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-05-27 00:23:14.909 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-05-27 00:23:51.542
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-27 00:24:14.198
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-27 00:24:14.200
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-05-27 00:24:14.201
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-09-25 23:14:54.804 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-25 23:15:34.085
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-25 23:15:58.500
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-25 23:15:58.502
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-25 23:15:58.503
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-09-26 10:05:22.862 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-26 10:06:04.800
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 10:06:30.032
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 10:06:30.034
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 10:06:30.035
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-09-26 18:25:25.146 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-26 18:26:05.363
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 18:26:28.430
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 18:26:28.432
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 18:26:28.433
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2020-09-26 18:43:43.252 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2020-09-26 18:44:04.918
+!MESSAGE Plug-in 'org.eclipse.egit.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.search.menu' is invalid): org.eclipse.egit.ui.actions.OpenCommitSearchPage
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-26 18:44:08.453
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-09-26 18:46:10.430
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-09-26 18:46:10.431
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.431
+!MESSAGE Software being installed: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.431
+!MESSAGE Missing requirement: Structured Source Editor 1.7.100.v202008192217 (org.eclipse.wst.sse.ui 1.7.100.v202008192217) requires 'osgi.bundle; org.eclipse.ui.workbench [3.117.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:10.431
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.431
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.500.v202008091424 (org.eclipse.wst.xml.ui 1.2.500.v202008091424)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.431
+!MESSAGE To: osgi.bundle; org.eclipse.wst.sse.ui [1.7.100,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:10.431
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.431
+!MESSAGE From: XPath UI 1.1.300.v201904282210 (org.eclipse.wst.xml.xpath.ui 1.1.300.v201904282210)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.432
+!MESSAGE To: osgi.bundle; org.eclipse.wst.xml.ui [1.2.300,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:10.432
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.432
+!MESSAGE From: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.432
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.xpath.ui [1.1.300.v201904282210,1.1.300.v201904282210]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-09-26 18:46:10.884
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-09-26 18:46:10.884
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.884
+!MESSAGE Software being installed: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.885
+!MESSAGE Missing requirement: Structured Source Editor 1.7.100.v202008192217 (org.eclipse.wst.sse.ui 1.7.100.v202008192217) requires 'osgi.bundle; org.eclipse.ui.workbench [3.117.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:10.885
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.885
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.500.v202008091424 (org.eclipse.wst.xml.ui 1.2.500.v202008091424)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.885
+!MESSAGE To: osgi.bundle; org.eclipse.wst.sse.ui [1.7.100,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:10.886
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.886
+!MESSAGE From: XPath UI 1.1.300.v201904282210 (org.eclipse.wst.xml.xpath.ui 1.1.300.v201904282210)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.887
+!MESSAGE To: osgi.bundle; org.eclipse.wst.xml.ui [1.2.300,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:10.887
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.887
+!MESSAGE From: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:10.887
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.xpath.ui [1.1.300.v201904282210,1.1.300.v201904282210]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-09-26 18:46:11.553
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-09-26 18:46:11.554
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.554
+!MESSAGE Software being installed: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.554
+!MESSAGE Missing requirement: Structured Source Editor 1.7.100.v202008192217 (org.eclipse.wst.sse.ui 1.7.100.v202008192217) requires 'osgi.bundle; org.eclipse.ui.workbench [3.117.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:11.554
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.554
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.500.v202008091424 (org.eclipse.wst.xml.ui 1.2.500.v202008091424)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.554
+!MESSAGE To: osgi.bundle; org.eclipse.wst.sse.ui [1.7.100,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:11.554
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.557
+!MESSAGE From: XPath UI 1.1.300.v201904282210 (org.eclipse.wst.xml.xpath.ui 1.1.300.v201904282210)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.557
+!MESSAGE To: osgi.bundle; org.eclipse.wst.xml.ui [1.2.300,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:11.557
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.557
+!MESSAGE From: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.557
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.xpath.ui [1.1.300.v201904282210,1.1.300.v201904282210]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-09-26 18:46:11.584
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-09-26 18:46:11.584
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE Software being installed: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE Missing requirement: Structured Source Editor 1.7.100.v202008192217 (org.eclipse.wst.sse.ui 1.7.100.v202008192217) requires 'osgi.bundle; org.eclipse.ui.workbench [3.117.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:11.584
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.500.v202008091424 (org.eclipse.wst.xml.ui 1.2.500.v202008091424)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE To: osgi.bundle; org.eclipse.wst.sse.ui [1.7.100,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:11.584
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE From: XPath UI 1.1.300.v201904282210 (org.eclipse.wst.xml.xpath.ui 1.1.300.v201904282210)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE To: osgi.bundle; org.eclipse.wst.xml.ui [1.2.300,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:46:11.584
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE From: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:46:11.584
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.xpath.ui [1.1.300.v201904282210,1.1.300.v201904282210]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-09-26 18:48:15.094
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-09-26 18:48:15.094
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.094
+!MESSAGE Software being installed: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.094
+!MESSAGE Missing requirement: Structured Source Editor 1.7.100.v202008192217 (org.eclipse.wst.sse.ui 1.7.100.v202008192217) requires 'osgi.bundle; org.eclipse.ui.workbench [3.117.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:48:15.095
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.095
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.500.v202008091424 (org.eclipse.wst.xml.ui 1.2.500.v202008091424)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.095
+!MESSAGE To: osgi.bundle; org.eclipse.wst.sse.ui [1.7.100,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:48:15.095
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.095
+!MESSAGE From: XPath UI 1.1.300.v201904282210 (org.eclipse.wst.xml.xpath.ui 1.1.300.v201904282210)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.095
+!MESSAGE To: osgi.bundle; org.eclipse.wst.xml.ui [1.2.300,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:48:15.095
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.095
+!MESSAGE From: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.095
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.xpath.ui [1.1.300.v201904282210,1.1.300.v201904282210]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-09-26 18:48:15.246
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-09-26 18:48:15.247
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE Software being installed: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE Missing requirement: Structured Source Editor 1.7.100.v202008192217 (org.eclipse.wst.sse.ui 1.7.100.v202008192217) requires 'osgi.bundle; org.eclipse.ui.workbench [3.117.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:48:15.247
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.500.v202008091424 (org.eclipse.wst.xml.ui 1.2.500.v202008091424)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE To: osgi.bundle; org.eclipse.wst.sse.ui [1.7.100,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:48:15.247
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE From: XPath UI 1.1.300.v201904282210 (org.eclipse.wst.xml.xpath.ui 1.1.300.v201904282210)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE To: osgi.bundle; org.eclipse.wst.xml.ui [1.2.300,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-09-26 18:48:15.247
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE From: Eclipse XSL Developer Tools 1.3.900.v202005251734 (org.eclipse.wst.xsl.feature.feature.group 1.3.900.v202005251734)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-09-26 18:48:15.247
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.xpath.ui [1.1.300.v201904282210,1.1.300.v201904282210]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10052 2020-09-26 18:48:15.764
+!MESSAGE Cannot continue the operation.  There is another install operation in progress.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10052 2020-09-26 18:48:15.777
+!MESSAGE Cannot continue the operation.  There is another install operation in progress.
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2020-09-26 18:48:42.552
+!MESSAGE An error occurred while committing the engine session for profile: _home_addmin_eclipse_jee-2018-12_eclipse.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2020-09-26 18:48:42.552
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Collect phase.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.getProfileDataDirectory(EngineSession.java:81)
+	at org.eclipse.equinox.internal.p2.engine.Phase.prePerform(Phase.java:117)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:233)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:182)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:89)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:178)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2020-09-26 19:02:19.019 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2020-09-26 19:02:40.337
+!MESSAGE Plug-in 'org.eclipse.egit.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.search.menu' is invalid): org.eclipse.egit.ui.actions.OpenCommitSearchPage
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-26 19:02:43.856
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2020-09-26 20:10:19.221 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2020-09-26 20:10:40.876
+!MESSAGE Plug-in 'org.eclipse.egit.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.search.menu' is invalid): org.eclipse.egit.ui.actions.OpenCommitSearchPage
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-26 20:10:46.110
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2020-09-26 20:15:04.524
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 20:16:14.680
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 20:16:14.684
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-09-26 20:16:14.685
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
